@@ -1,0 +1,2 @@
+# znote
+my blog
